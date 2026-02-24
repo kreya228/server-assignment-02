@@ -115,7 +115,7 @@ PUT /products/:id/stock
 
 Body:
 {
-  "stock": 60
+  "stock": 100
 }
 
 Status: 200 or 404
@@ -148,7 +148,7 @@ Use Postman to test all routes.
 
 GitHub Repo Link: https://github.com/kreya228/server-assignment-02.git   
 Postman Docs Link:https://documenter.getpostman.com/view/50839275/2sBXcGDekP
-Render Deployment Link: 
+Render Deployment Link: https://server-assignment-02-zvij.onrender.com
 
 ---
 
